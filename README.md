@@ -44,7 +44,7 @@ Ainda em desenvolvimento, mas você pode:
 
 ---
 
-## 🙋‍♂️ Autor
+## 🙆‍♀️ Autora
 
 Desenvolvido com 💻 por Juliana Costa.
 
